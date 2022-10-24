@@ -1,0 +1,342 @@
+*{margin:0 auto}
+body{font-family:arial;font-size:1em}
+#hiking img{float:left;padding-top:20px;padding-left:70px}
+#hiking p{float:left;padding-top:20px;font-family:Mountager;font-style:normal;font-weight:200;font-size:20px;line-height:40px}
+.topnav{overflow:hidden;float:right}
+.topnav a {float:left;display:block;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none;font-size:14px;color:#333;margin-top:20px}
+.topnav a:hover {background-color:#FFFAF0;color:black}
+.topnav a.active {background-color:#6B8E23;color:white}
+.topnav .icon {display:none}
+#prepare{width:48%;margin:1%;float:left;padding-left:56px}
+#prepare h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#prepare p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+.button{background-color: #3E82FC;border: none;color: white;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer}
+.button2{background-color: #fff;border:2px solid #3E82FC;color: #3E82FC;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.bt{border-radius:12px}
+.bt2{border-radius:12px}
+.button .bt{width:181px;height:62px}
+.button2 .bt2{width:181px;height:62px}
+#hik{float:left}
+#hik img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;border-radius:500px}
+#location{width:31.33%;margin:1%;float:left}
+#location img{padding-left:50px}
+#location p{color:#5D616F;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#location h3{color: #05060A;font-family: 'Poppins';padding-top:15px;padding-left:50px}
+#location h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#safe{width:31.33%;margin:1%;float:left}
+#safe p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#safe h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#safe h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px}
+#prof{width:31.33%;margin:1%;float:left}
+#prof p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#prof h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#prof h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-bottom:30px}
+#hesitate p{text-align:center;font-family: 'Poppins'}
+font{color: #FE2C54}
+#girl{float:left}
+#girl img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#trust{width:48%;margin:1%;float:left;padding-left:56px}
+#trust h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#trust p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#company p{font-family: 'Poppins';text-align:center;padding-bottom:10px;color: #3E82FC;padding-top:50px}
+#company h3{font-family: 'Poppins';text-align:center;padding-bottom:30px}
+#logo{float:left}
+#logo img{width:31.33%;margin:1%;padding-left:50px}
+#ut{float:left}
+#ut img{width:31.33%;margin:1%}
+#tc{float:left}
+#tc img{width:31.33%;margin:1%}
+#trip{float:left}
+#trip img{width:48%;margin:1%;padding-left:50px}
+#book{float:left}
+#book img{width:48%;margin:1%}
+#life{width:48%;margin:1%;float:left;padding-left:56px}
+#life h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#life p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#selfie{float:left}
+#selfie img{width:48%;margin:1%;padding-bottom:50px;border-radius:0px 500px 500px 500px}
+#camera{float:left}
+#camera img{width:48%;margin:1%;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#nature{width:48%;margin:1%;float:left;padding-left:56px}
+#nature h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#nature p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#client p{font-family: 'Poppins';text-align:center;padding-bottom:10px;color: #3E82FC}
+#client h3{font-family: 'Poppins';text-align:center;padding-bottom:40px}
+#sub p{text-align:center;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#blog p{text-align:center;padding-bottom:30px;font-family:'Poppins';font-style:normal}
+#nw{padding-bottom:60px}
+#h{width:23%;margin:1%;float:left}
+#h p{padding-top:5px;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#loc{width:23%;margin:1%;float:left}
+#loc p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#contact{width:23%;margin:1%;float:left}
+#contact p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#legal{width:23%;margin:1%;float:left}
+#legal p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#copy p{text-align:center;font-family:'Poppins';font-style:normal}
+.clr{clear:both}
+
+@media only screen and (max-width:900px)
+{
+*{margin:0 auto}
+body{font-family:arial;font-size:1em}
+#hiking img{float:left;padding-top:20px;padding-left:70px}
+#hiking p{float:left;padding-top:20px;font-family:Mountager;font-style:normal;font-weight:200;font-size:20px;line-height:40px}
+.topnav{overflow:hidden;float:right}
+.topnav a {float:left;display:block;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none;font-size:14px;color:#333;margin-top:20px}
+.topnav a:hover {background-color:#FFFAF0;color:black}
+.topnav a.active {background-color:#6B8E23;color:white}
+.topnav .icon {display:none}
+#prepare{width:48%;margin:1%;float:left;padding-left:56px}
+#prepare h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#prepare p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+.button{background-color: #3E82FC;border: none;color: white;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer}
+.button2{background-color: #fff;border:2px solid #3E82FC;color: #3E82FC;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.bt{border-radius:12px}
+.bt2{border-radius:12px}
+.button .bt{width:181px;height:62px}
+.button2 .bt2{width:181px;height:62px}
+#hik{float:left}
+#hik img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;border-radius:500px}
+#location{width:31.33%;margin:1%;float:left}
+#location img{padding-left:50px}
+#location p{color:#5D616F;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#location h3{color: #05060A;font-family: 'Poppins';padding-top:15px;padding-left:50px}
+#location h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#safe{width:31.33%;margin:1%;float:left}
+#safe p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#safe h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#safe h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px}
+#prof{width:31.33%;margin:1%;float:left}
+#prof p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#prof h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#prof h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-bottom:30px}
+#hesitate p{text-align:center;font-family: 'Poppins'}
+font{color: #FE2C54}
+#girl{float:left}
+#girl img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#trust{width:48%;margin:1%;float:left;padding-left:56px}
+#trust h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#trust p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#company p{font-family: 'Poppins';text-align:center;padding-bottom:10px;color: #3E82FC;padding-top:50px}
+#company h3{font-family: 'Poppins';text-align:center;padding-bottom:30px}
+#logo{float:left}
+#logo img{width:31.33%;margin:1%;padding-left:50px}
+#ut{float:left}
+#ut img{width:31.33%;margin:1%}
+#tc{float:left}
+#tc img{width:31.33%;margin:1%}
+#trip{float:left}
+#trip img{width:48%;margin:1%;padding-left:50px}
+#book{float:left}
+#book img{width:48%;margin:1%}
+#life{width:48%;margin:1%;float:left;padding-left:56px}
+#life h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#life p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#selfie{float:left}
+#selfie img{width:48%;margin:1%;padding-bottom:50px;border-radius:0px 500px 500px 500px}
+#camera{float:left}
+#camera img{width:48%;margin:1%;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#nature{width:48%;margin:1%;float:left;padding-left:56px}
+#nature h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#nature p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#client h3{font-family: 'Poppins';text-align:center;padding-bottom:40px}
+#sub p{text-align:center;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#blog p{text-align:center;padding-bottom:30px}
+#sub p{text-align:center}
+#blog p{text-align:center}
+#h{width:23%;margin:1%;float:left}
+#h p{padding-top:5px;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#loc{width:23%;margin:1%;float:left}
+#loc p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#contact{width:23%;margin:1%;float:left}
+#contact p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#legal{width:23%;margin:1%;float:left}
+#legal p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#copy p{text-align:center;font-family:'Poppins';font-style:normal}
+.clr{clear:both}
+}
+
+@media only screen and (max-width:600px)
+{
+*{margin:0 auto}
+body{font-family:arial;font-size:1em}
+#hiking img{float:left;padding-top:20px;padding-left:70px}
+#hiking p{float:left;padding-top:20px;font-family:Mountager;font-style:normal;font-weight:200;font-size:20px;line-height:40px}
+.topnav{overflow:hidden;float:right}
+.topnav a {float:left;display:block;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none;font-size:14px;color:#333;margin-top:20px}
+.topnav a:hover {background-color:#FFFAF0;color:black}
+.topnav a.active {background-color:#6B8E23;color:white}
+.topnav .icon {display:none}
+#prepare{width:48%;margin:1%;float:left;padding-left:56px}
+#prepare h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#prepare p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+.button{background-color: #3E82FC;border: none;color: white;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer}
+.button2{background-color: #fff;border:2px solid #3E82FC;color: #3E82FC;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.bt{border-radius:12px}
+.bt2{border-radius:12px}
+.button .bt{width:181px;height:62px}
+.button2 .bt2{width:181px;height:62px}
+#hik{float:left}
+#hik img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;border-radius:500px}
+#location{width:31.33%;margin:1%;float:left}
+#location img{padding-left:50px}
+#location p{color:#5D616F;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#location h3{color: #05060A;font-family: 'Poppins';padding-top:15px;padding-left:50px}
+#location h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-left:50px}
+#safe{width:31.33%;margin:1%;float:left}
+#safe p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#safe h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#safe h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px}
+#prof{width:31.33%;margin:1%;float:left}
+#prof p{color:#5D616F;font-family: 'Poppins';padding-top:10px}
+#prof h3{color: #05060A;font-family: 'Poppins';padding-top:15px}
+#prof h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-bottom:30px}
+#hesitate p{text-align:center;font-family: 'Poppins'}
+font{color: #FE2C54}
+#girl{float:left}
+#girl img{width:48%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#trust{width:48%;margin:1%;float:left;padding-left:56px}
+#trust h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#trust p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#company p{font-family: 'Poppins';text-align:center;padding-bottom:10px;color: #3E82FC;padding-top:50px}
+#company h3{font-family: 'Poppins';text-align:center;padding-bottom:30px}
+#logo{float:left}
+#logo img{width:31.33%;margin:1%;padding-left:50px}
+#ut{float:left}
+#ut img{width:31.33%;margin:1%}
+#tc{float:left}
+#tc img{width:31.33%;margin:1%}
+#trip{float:left}
+#trip img{width:48%;margin:1%;padding-left:50px}
+#book{float:left}
+#book img{width:48%;margin:1%}
+#life{width:48%;margin:1%;float:left;padding-left:56px}
+#life h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#life p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#selfie{float:left}
+#selfie img{width:48%;margin:1%;padding-bottom:50px;border-radius:0px 500px 500px 500px}
+#camera{float:left}
+#camera img{width:48%;margin:1%;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#nature{width:48%;margin:1%;float:left;padding-left:56px}
+#nature h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#nature p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#client h3{font-family: 'Poppins';text-align:center;padding-bottom:40px}
+#sub p{text-align:center;padding-bottom:20px}
+#blog p{text-align:center;padding-bottom:30px}
+#sub p{text-align:center;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#blog p{text-align:center}
+#h{width:48%;margin:1%;float:left}
+#h p{padding-top:5px;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#loc{width:48%;margin:1%;float:left}
+#loc p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#contact{width:48%;margin:1%;float:left}
+#contact p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#legal{width:48%;margin:1%;float:left}
+#legal p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal}
+#copy p{text-align:center;font-family:'Poppins';font-style:normal}
+.clr{clear:both}
+}
+
+@media only screen and (max-width:320px)
+{
+*{margin:0 auto}
+body{font-family:arial;font-size:1em}
+#hiking img{float:left;padding-top:20px;padding-left:70px}
+#hiking p{float:left;padding-top:20px;font-family:Mountager;font-style:normal;font-weight:200;font-size:20px;line-height:40px}
+.topnav{overflow:hidden;float:right}
+.topnav a {float:left;display:block;color:#f2f2f2;text-align:center;padding:14px 16px;text-decoration:none;font-size:14px;color:#333;margin-top:20px}
+.topnav a:hover {background-color:#FFFAF0;color:black}
+.topnav a.active {background-color:#6B8E23;color:white}
+.topnav .icon {display:none}
+#prepare{width:98%;margin:1%;float:left;padding-left:56px}
+#prepare h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#prepare p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+.button{background-color: #3E82FC;border: none;color: white;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer}
+.button2{background-color: #fff;border:2px solid #3E82FC;color: #3E82FC;padding: 20px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.bt{border-radius:12px}
+.bt2{border-radius:12px}
+.button .bt{width:181px;height:62px}
+.button2 .bt2{width:181px;height:62px}
+#hik{float:left}
+#hik img{width:98%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;border-radius:500px;padding-left:25px}
+#location{width:98%;margin:1%;float:left}
+#location img{padding-left:160px}
+#location p{color:#5D616F;font-family: 'Poppins';padding-top:10px;padding-left:50px;text-align:center}
+#location h3{color: #05060A;font-family: 'Poppins';padding-top:15px;padding-left:50px;text-align:center}
+#location h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-left:50px;text-align:center}
+#safe{width:98%;margin:1%;float:left}
+#safe img{padding-left:150px}
+#safe p{color:#5D616F;font-family: 'Poppins';padding-top:10px;text-align:center}
+#safe h3{color: #05060A;font-family: 'Poppins';padding-top:15px;text-align:center}
+#safe h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;text-align:center}
+#prof img{padding-left:150px}
+#prof{width:98%;margin:1%;float:left}
+#prof p{color:#5D616F;font-family: 'Poppins';padding-top:10px;text-align:center}
+#prof h3{color: #05060A;font-family: 'Poppins';padding-top:15px;text-align:center}
+#prof h4{color:#FE2C54;font-family: 'Poppins';padding-top:10px;padding-bottom:30px;text-align:center}
+#hesitate p{text-align:center;font-family: 'Poppins'}
+#girl{float:left}
+#girl img{width:98%;margin:1%;height:auto;padding-top:70px;padding-bottom:50px;padding-left:30px;border-radius:500px 0px 500px 500px}
+#trust{width:98%;margin:1%;float:left;padding-left:56px}
+#trust h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#trust p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#company p{font-family: 'Poppins';text-align:center;padding-bottom:10px;color: #3E82FC;padding-top:50px}
+#company h3{font-family: 'Poppins';text-align:center;padding-bottom:30px}
+#logo{float:left}
+#logo img{padding-right:30px}
+#ut{float:left}
+#ut img{width:98%;margin:1%;padding-left:10px}
+#tc{float:left}
+#tc img{width:98%;margin:1%;padding-left:20px}
+#trip{float:left}
+#trip img{width:98%;margin:1%;padding-left:20px}
+#book{float:left}
+#book img{width:98%;margin:1%;padding-left:20px}
+#life{width:98%;margin:1%;float:left;padding-left:56px}
+#life h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#life p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#selfie{float:left}
+#selfie img{width:98%;margin:1%;padding-bottom:50px;border-radius:0px 500px 500px 500px;padding-left:30px}
+#camera{float:left}
+#camera img{width:98%;margin:1%;padding-top:70px;padding-bottom:50px;padding-left:50px;border-radius:500px 0px 500px 500px}
+#nature{width:98%;margin:1%;float:left;padding-left:56px}
+#nature h1{padding-top:50px;font-family:'Poppins';font-style:normal;letter-spacing: 0.01em;color: #05060A;padding-bottom:15px}
+#nature p{padding-bottom:20px;font-family:'Poppins';font-style:normal;font-size:15px;color:#5D616F}
+#client h3{font-family: 'Poppins';text-align:center;padding-bottom:40px}
+#sub p{text-align:center;padding-bottom:20px;font-family:'Poppins';font-style:normal}
+#blog p{text-align:center;padding-bottom:30px}
+#sub p{text-align:center}
+#blog p{text-align:center}
+#h{width:98%;margin:1%;float:left}
+#h p{padding-top:5px;padding-bottom:20px;font-family:'Poppins';font-style:normal;text-align:center}
+#h img{padding-right:20px}
+#loc{width:98%;margin:1%;float:left}
+#loc p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal;text-align:center}
+#contact{width:98%;margin:1%;float:left}
+#contact p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal;text-align:center}
+#legal{width:98%;margin:1%;float:left}
+#legal p{padding-bottom:10px;padding-top:10px;font-family:'Poppins';font-style:normal;text-align:center}
+#copy p{text-align:center;font-family:'Poppins';font-style:normal}
+.clr{clear:both}
+}
+
+
+@media screen and (max-width:480px) 
+{
+  	.topnav a:not(:first-child) {display: none;}
+  	.topnav a.icon {float: right;display: block;}
+}
+@media screen and (max-width:750px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+ .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
